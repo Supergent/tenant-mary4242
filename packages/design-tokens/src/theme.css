@@ -1,0 +1,52 @@
+:root {
+  /* Colors - Palette */
+  --color-primary: #6366f1;
+  --color-primary-foreground: #ffffff;
+  --color-primary-emphasis: #4338ca;
+
+  --color-secondary: #0ea5e9;
+  --color-secondary-foreground: #0f172a;
+  --color-secondary-emphasis: #0284c7;
+
+  --color-accent: #f97316;
+  --color-accent-foreground: #0f172a;
+
+  --color-success: #16a34a;
+  --color-success-foreground: #022c22;
+
+  --color-warning: #facc15;
+  --color-warning-foreground: #422006;
+
+  --color-danger: #ef4444;
+  --color-danger-foreground: #450a0a;
+
+  /* Colors - Neutrals */
+  --color-background: #f8fafc;
+  --color-surface: #ffffff;
+  --color-muted: #e2e8f0;
+  --color-border: #e5e7eb;
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #475569;
+
+  /* Typography */
+  --font-base: Inter, 'Inter Variable', system-ui, sans-serif;
+  --font-heading: 'Plus Jakarta Sans', 'Inter Variable', sans-serif;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 20px;
+  --spacing-xl: 28px;
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-pill: 999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.08);
+  --shadow-md: 0 10px 25px -15px rgba(15, 23, 42, 0.25);
+  --shadow-lg: 0 18px 40px -20px rgba(15, 23, 42, 0.35);
+}

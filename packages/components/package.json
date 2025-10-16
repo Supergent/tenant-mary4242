@@ -1,0 +1,23 @@
+{
+  "name": "@jn703s5hkkh7cm8dfq88ydf2y57sk5w4/components",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "private": true,
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "@radix-ui/react-toast": "^1.1.4",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.453.0",
+    "tailwind-merge": "^2.2.1",
+    "@jn703s5hkkh7cm8dfq88ydf2y57sk5w4/design-tokens": "workspace:*"
+  }
+}
